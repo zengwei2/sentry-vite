@@ -1,0 +1,7 @@
+[auth]
+token=f84bbe896c5eaebd8304c290c7210e862cfba0de6855140d6f223279a3d195a8
+
+[defaults]
+org=2-p3
+project=javascript-vue
+url=http://172.22.82.189:9092
